@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Tech lover from Iran<br>Building Telegram Bots, Backend Development, And Cybersecurity</p>
+<p align="center">Tech lover from Iran<br>Building Telegram Bots and Backend Development</p>
 
 ###
 
