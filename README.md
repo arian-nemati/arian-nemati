@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Arian 👋</h1>
+<h1 align="left">Hi, I'm Arian 👋</h1>
 
 ###
 
-<p align="center">Tech lover from Iran<br>Building Telegram Bots and Backend Development</p>
+<p align="left">- Tech lover from Iran<br>- Building Telegram Bots and Backend Development</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css logo"  />
